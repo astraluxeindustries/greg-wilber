@@ -11,27 +11,27 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Greg Wilber" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Greg Wilber
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                Greg Wilber is a trusted Home Loan Specialist dedicated to helping individuals and families build smart, strategic mortgage plans. With a straightforward philosophy rooted in honesty and clarity, Greg believes every client deserves transparent guidance and a lending experience built on trust.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                As part of Churchill Mortgage, Greg focuses on helping buyers and homeowners navigate today’s market with confidence. Whether purchasing a first home, refinancing, or planning a long-term wealth strategy through real estate, he works closely with clients to design a mortgage structure that aligns with their broader financial goals.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Greg has built his business on simple principles: treat people right, communicate clearly, and follow through. His client reviews reflect families who felt informed, supported, and confident in their decisions. He understands that a mortgage is not just a loan. It is a financial commitment that should strengthen your future, not complicate it.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                Known for his responsiveness and strategic mindset, Greg takes the time to educate his clients so they fully understand their options before moving forward. From pre-approval to closing, he ensures the process remains smooth, organized, and focused on achieving the best possible outcome. Whether you are stepping into homeownership for the first time or refining your long-term housing strategy, Greg Wilber is committed to delivering honest advice and results that create happy homeowners.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
@@ -41,7 +41,7 @@ export const About = () => {
               </div>
               <div>
                 <span className="block text-3xl font-serif font-bold text-slate-900">Top 1%</span>
-                <span className="text-sm text-slate-500">Originator in WA</span>
+                <span className="text-sm text-slate-500">Originator in UT</span>
               </div>
             </div>
           </div>
